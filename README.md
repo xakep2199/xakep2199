@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">👋 Привет! Я Филипп — Full-Stack разработчик</h1>
+<p align="center">
+  🚀 React · TypeScript · Node.js · PostgreSQL · Архитектура и автоматизация
+</p>
 
-<!--
-**xakep2199/xakep2199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,postgres,sequelize,redux,vite,docker,git,github,figma&perline=6" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Основные проекты
+
+📌 **Final Project**  
+Полноценное web-приложение с авторизацией, REST-API и серверной логикой.  
+🔹 React · TypeScript · Node.js · Express · PostgreSQL · Sequelize · JWT · RTK · Vite  
+🔗 Репозиторий: https://github.com/xakep2199/final_project
+
+📌 **Project Tea**  
+Фронтенд-приложение с навигацией, UI-логикой и управлением состоянием.  
+🔹 React · TypeScript · Redux Toolkit  
+🔗 Репозиторий: https://github.com/xakep2199/project_tea
+
+---
+
+## 🧩 Профессиональный фокус
+
+- Full-stack разработка: клиент + сервер
+- Строгая типизация на TypeScript
+- Авторизация JWT (доступ + обновление токена)
+- Проработка архитектуры состояния (RTK)
+- Работа с базами данных (PostgreSQL)
+- Создание REST-API и интеграция frontend/backend
+
+
+## 🤝 Связаться со мной
+
+<p align="center">
+  <a href="https://t.me/redchalenger">
+    <img src="https://img.shields.io/badge/Telegram-Связаться-0A66C2?style=for-the-badge&logo=telegram" />
+  </a>
+</p>
+
+---
+
+### 🎯 Карьера и цели
+
+Ищу развитие в full-stack или front-end разработке, создавать умные и масштабируемые приложения.  
+Рассматриваю предложения по проектам и стажировкам 🚀
